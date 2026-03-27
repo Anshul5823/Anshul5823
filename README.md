@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🚀 Passionate Software Developer focused on building efficient, scalable, and user-friendly applications.<br>💡 Strong foundation in Data Structures, Algorithms, and Core Computer Science.<br>🛠️ Skilled in Java, MySQL ,JDBC and problem-solving.<br>📚 Continuously learning, building projects, and exploring new technologies.⚡ Fun fact
+🚀 Passionate Software Developer focused on building efficient, scalable, and user-friendly applications.<br>💡 Strong foundation in Data Structures, Algorithms, and Core Computer Science.<br>🛠️ Skilled in Java, MySQL ,JDBC and problem-solving.<br>📚 Continuously learning, building projects, and exploring new technologies.
 
 
 ## 🌐 Socials:
